@@ -1,0 +1,19 @@
+id: A9F44B48F
+title: A Prayer to the Goddess Parṇaśavarī
+type: translation
+pechas:
+- I91248D98
+- I41F14433
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:46:01.145639
+  last_modified_at: 2023-01-04 12:46:01.145663
+  collections:
+  - Karma Chakme Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I91248D98/1B07: 078F
+  I41F14433/A499: 078F
